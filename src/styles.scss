@@ -1,1 +1,22 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
 /* You can add global styles to this file, and also import other style files */
+
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.navigation-bar {
+  background-color: #1e1e1e;
+}
+
+.project-card {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+}
+
+.resume-download-container {
+  background-color: #2a2a2a;
+}
